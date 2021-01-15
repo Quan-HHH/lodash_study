@@ -1,0 +1,23 @@
+{
+  "name": "lodash_study",
+  "version": "1.0.0",
+  "description": "lodash学习",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Quan-HHH/lodash_study.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Quan-HHH/lodash_study/issues"
+  },
+  "homepage": "https://github.com/Quan-HHH/lodash_study#readme",
+  "dependencies": {
+    "lodash": "^4.17.20"
+  }
+}
